@@ -7,4 +7,4 @@ bienevenido
 divas 
 
 
-![mc-kevin-salto](https://github.com/bielro69/bielro69/assets/169896437/eac9459a-7809-47a3-a39b-a0d01815dfec)
+![mc-kevin-salto].(https://github.com/bielro69/bielro69/assets/169896437/eac9459a-7809-47a3-a39b-a0d01815dfec).
